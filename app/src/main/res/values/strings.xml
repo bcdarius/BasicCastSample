@@ -7,19 +7,13 @@
     <string name="media_route_menu_title">Play on&#8230;</string>
 
     <!-- A sample Brightcove Account ID -->
-    <string name="account">5028486660001</string>
+    <string name="account">3755095892001</string>
 
     <!-- A sample Brightcove PAPI Policy Key -->
-    <string name="policy">BCpkADawqM1TPdndLm9QGpgy8XnkU_KBe2pXNQt1uF0lkpkJjaAv_9sQoXdCFA3CcdHNryKhEHnQ94O1oUogjJizgqzvMskqkl59C0cJJN2BrCo5ckRVAnqqyLKZycHiDyX9wPV3hYXi2Q3h</string>
+    <string name="policy">BCpkADawqM3tqI83EJCgzxOCVejEXUl8Gutv31VCAhpqSW-55sb0FUw9lbHxaau2dy4HHakZ0UoJ0gOKP1xE8NkzgEjrCOaverKlAPrBjIoIkpfyyna7gY6bDfOqDYVSI8lBvlKOSxXWiEkm</string>
 
-    <!-- A sample DyD Video ID with CC -->
-    <string name="videoId">5968139765001</string>
-
-    <string name="media_title">Big Buck Bunny</string>
-    <string name="media_studio">Blender Foundation</string>
-    <string name="media_url">https://ia600408.us.archive.org/26/items/BigBuckBunny_328/BigBuckBunny_512kb.mp4</string>
-    <string name="media_thumbnail">https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images_480x270/BigBuckBunny.jpg</string>
-    <string name="media_image">https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images_780x1200/BigBuckBunny-780x1200.jpg</string>
+    <!-- Sample Brightcove Video ID -->
+    <string name="videoId">5858594135001</string>
 
     <string name="video_title">Video Title</string>
     <string name="video_thumbnail">Video Thumbnail</string>
